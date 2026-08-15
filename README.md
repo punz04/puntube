@@ -4,8 +4,8 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 </h4>
 <div align="center">
   
-[![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/FiorenMas/View-Counter)
-[![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions](https://img.shields.io/github/actions/workflow/status/fiorenmas/Revanced-And-Revanced-Extended-Non-Root/ci.yml)](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions)
+[![Image of https://github.com/punz04/Revanced-And-Revanced-Extended-Non-Root](https://github.com/punz04/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/punz04/View-Counter)
+[![Image of https://github.com/punz04/Revanced-And-Revanced-Extended-Non-Root/actions](https://img.shields.io/github/actions/workflow/status/fiorenmas/Revanced-And-Revanced-Extended-Non-Root/ci.yml)](https://github.com/punz04/Revanced-And-Revanced-Extended-Non-Root/actions)
 [![](https://img.shields.io/badge/Telegram-2CA5E0)](https://t.me/fiorenmas)
   
 </div>
@@ -20,7 +20,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 Simply, all you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose All Architectures. That's all there is to it.
 
 > [!NOTE]
-> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE)
+> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/PuntubeApp/MicroG-RE)
 > 
 > This repository is not like any other repository. It does not create new releases; it only releases new files.
 > 
@@ -130,33 +130,33 @@ Download
 
 </details>
 
-## [MicroG RE:](https://github.com/MorpheApp/MicroG-RE)
+## [MicroG RE:](https://github.com/PuntubeApp/MicroG-RE)
 
-[![Release](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=All%20Architectures&style=for-the-badge)](https://github.com/MorpheApp/MicroG-RE/releases) 
+[![Release](https://img.shields.io/github/v/release/PuntubeApp/MicroG-RE?label=All%20Architectures&style=for-the-badge)](https://github.com/PuntubeApp/MicroG-RE/releases) 
 
 ---
 
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-### [Morphe:](https://github.com/MorpheApp/morphe-patches)
+### [Puntube:](https://github.com/PuntubeApp/puntube-patches)
 
-| [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)| [Beta version](https://github.com/MorpheApp/morphe-patches/releases)           |
+| [Stable version](https://github.com/PuntubeApp/puntube-patches/releases/latest)| [Beta version](https://github.com/PuntubeApp/puntube-patches/releases)           |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [All Architectures](../../releases/download/all/youtube-morphe.apk)          | [All Architectures](../../releases/download/all/youtube-beta-morphe.apk)       |
-| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-morphe.apk)        | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-morphe.apk)     |
-| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-morphe.apk)    | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-morphe.apk) |
-| [x86](../../releases/download/all/youtube-x86-morphe.apk)                    | [x86](../../releases/download/all/youtube-beta-x86-morphe.apk)                 |
-| [x86_64](../../releases/download/all/youtube-x86_64-morphe.apk)              | [x86_64](../../releases/download/all/youtube-beta-x86_64-morphe.apk)           |
+| [All Architectures](../../releases/download/all/youtube-puntube.apk)          | [All Architectures](../../releases/download/all/youtube-beta-puntube.apk)       |
+| [Arm64-v8a](../../releases/download/all/youtube-arm64-v8a-puntube.apk)        | [Arm64-v8a](../../releases/download/all/youtube-beta-arm64-v8a-puntube.apk)     |
+| [Armeabi-v7a](../../releases/download/all/youtube-armeabi-v7a-puntube.apk)    | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-puntube.apk) |
+| [x86](../../releases/download/all/youtube-x86-puntube.apk)                    | [x86](../../releases/download/all/youtube-beta-x86-puntube.apk)                 |
+| [x86_64](../../releases/download/all/youtube-x86_64-puntube.apk)              | [x86_64](../../releases/download/all/youtube-beta-x86_64-puntube.apk)           |
 
 <details>
   <summary>Lite version</summary>
 
 **A lite version is a version with unnecessary things removed. For example, it might only have an English interface and remove unused screen DPI from split APKs**
 
-| [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)  | [Beta version](https://github.com/MorpheApp/morphe-patches/release)                 |
+| [Stable version](https://github.com/PuntubeApp/puntube-patches/releases/latest)  | [Beta version](https://github.com/PuntubeApp/puntube-patches/release)                 |
 | -----------------------------------------------------------------------------  | ----------------------------------------------------------------------------------- |
-| - [](../../releases/download/all/youtube-lite-arm64-v8a-morphe.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-lite-arm64-v8a-morphe.apk)     |
-| - [](../../releases/download/all/youtube-lite-armeabi-v7a-morphe.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-lite-armeabi-v7a-morphe.apk) |
+| - [](../../releases/download/all/youtube-lite-arm64-v8a-puntube.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-lite-arm64-v8a-puntube.apk)     |
+| - [](../../releases/download/all/youtube-lite-armeabi-v7a-puntube.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-lite-armeabi-v7a-puntube.apk) |
 
 </details>
 
@@ -239,14 +239,14 @@ Download
 
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-### [Morphe:](https://github.com/MorpheApp/morphe-patches)
+### [Puntube:](https://github.com/PuntubeApp/puntube-patches)
 
-| [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)  | [Beta version](https://github.com/MorpheApp/morphe-patches/releases)                |
+| [Stable version](https://github.com/PuntubeApp/puntube-patches/releases/latest)  | [Beta version](https://github.com/PuntubeApp/puntube-patches/releases)                |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-morphe.apk)    | [Arm64-v8a](../../releases/download/all/youtube-music-beta-arm64-v8a-morphe.apk)    |
-| [Armeabi-v7a](../../releases/download/all/youtube-music-armeabi-v7a-morphe.apk)| [Armeabi-v7a](../../releases/download/all/youtube-music-beta-armeabi-v7a-morphe.apk)|
-| [x86](../../releases/download/all/youtube-music-x86-morphe.apk)                | [x86](../../releases/download/all/youtube-music-beta-x86-morphe.apk)                |
-| [x86_64](../../releases/download/all/youtube-music-x86_64-morphe.apk)          | [x86_64](../../releases/download/all/youtube-music-beta-x86_64-morphe.apk)          |
+| [Arm64-v8a](../../releases/download/all/youtube-music-arm64-v8a-puntube.apk)    | [Arm64-v8a](../../releases/download/all/youtube-music-beta-arm64-v8a-puntube.apk)    |
+| [Armeabi-v7a](../../releases/download/all/youtube-music-armeabi-v7a-puntube.apk)| [Armeabi-v7a](../../releases/download/all/youtube-music-beta-armeabi-v7a-puntube.apk)|
+| [x86](../../releases/download/all/youtube-music-x86-puntube.apk)                | [x86](../../releases/download/all/youtube-music-beta-x86-puntube.apk)                |
+| [x86_64](../../releases/download/all/youtube-music-x86_64-puntube.apk)          | [x86_64](../../releases/download/all/youtube-music-beta-x86_64-puntube.apk)          |
 
 ### [Revanced Extended forked by anddea:](https://github.com/anddea/revanced-patches)
 
@@ -417,7 +417,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
 
-### [icysymmetra:](https://github.com/icysymmetra/tiktok-patches-for-morphe)
+### [icysymmetra:](https://github.com/icysymmetra/tiktok-patches-for-puntube)
 
 [All Architectures](../../releases/download/all/tiktok-icysymmetra.apk)
 
@@ -448,7 +448,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Twitch:](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
-### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
+### [arandomhooman:](https://github.com/arandomhooman/hoomans-puntube-patches)
 
 [All Architectures](../../releases/download/all/twitch-arandomhooman.apk)
 
@@ -474,12 +474,12 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
-### [Morphe:](https://github.com/MorpheApp/morphe-patches)
+### [Puntube:](https://github.com/PuntubeApp/puntube-patches)
 
 | Stable version                                                       | Beta version                                                              |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/reddit-morphe.apk)   | [All Architectures](../../releases/download/all/reddit-beta-morphe.apk)   |
-| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-morphe.apk) | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-beta-morphe.apk) |
+| [All Architectures](../../releases/download/all/reddit-puntube.apk)   | [All Architectures](../../releases/download/all/reddit-beta-puntube.apk)   |
+| [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-puntube.apk) | [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-beta-puntube.apk) |
 
 <details>
   <summary>Outdated patches</summary>
@@ -529,7 +529,7 @@ And if you can't install messenger back again because they check sign app should
 
 [Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-paresh.apk)
 
-### [Bufferk:](https://github.com/morphe-patches/bufferk)
+### [Bufferk:](https://github.com/puntube-patches/bufferk)
 
 [Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-bufferk.apk)
 
@@ -553,7 +553,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Battery Guru:](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
 
-### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
+### [arandomhooman:](https://github.com/arandomhooman/hoomans-puntube-patches)
 
 [All Architectures](../../releases/download/all/battery-guru-arandomhooman.apk)
 
@@ -561,7 +561,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Brave Browser:](https://play.google.com/store/apps/details?id=com.brave.browser)
 
-### [bufferk:](https://github.com/bufferk/morphe-patches)
+### [bufferk:](https://github.com/bufferk/puntube-patches)
 
 [Arm64-v8a](../../releases/download/all/brave-browser-arm64-v8a-bufferk.apk)
 
@@ -569,7 +569,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Tumblr:](https://play.google.com/store/apps/details?id=com.tumblr)
 
-### [arandomhooman:](https://github.com/arandomhooman/hoomans-morphe-patches)
+### [arandomhooman:](https://github.com/arandomhooman/hoomans-puntube-patches)
 
 [All Architectures](../../releases/download/all/tumblr-arandomhooman.apk)
 
@@ -595,7 +595,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [SoundCloud:](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [All Architectures](../../releases/download/all/soundcloud-hoo-dles.apk )
 
@@ -621,7 +621,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [Arm64-v8a](../../releases/download/all/duolingo-hoo-dles.apk )
 
@@ -682,11 +682,11 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Proton VPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [All Architectures](../../releases/download/all/protonvpn-hoo-dles.apk )
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/protonvpn-rushiranpise.apk )
 
@@ -705,7 +705,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Psiphon:](https://play.google.com/store/apps/details?id=com.psiphon3.subscription)
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/psiphon-rushiranpise.apk )
 
@@ -713,7 +713,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Windscribe:](https://play.google.com/store/apps/details?id=com.windscribe.vpn)
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/windscribe-rushiranpise.apk )
 
@@ -759,7 +759,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [TeraBox:](https://play.google.com/store/apps/details?id=com.dubox.drive)
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/terabox-rushiranpise.apk)
 
@@ -811,7 +811,7 @@ And if you can't install messenger back again because they check sign app should
 
 ### [Prime Video:](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [Arm64-v8a](../../releases/download/all/prime-video-arm64-v8a-hoo-dles.apk)
 
@@ -894,11 +894,11 @@ Web version:
 
 ### [Adguard:](https://adguard.com/)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [All Architectures](../../releases/download/all/adguard-hoo-dles.apk )
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/adguard-rushiranpise.apk )
 
@@ -906,7 +906,7 @@ Web version:
 
 ### [Smart Launcher:](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [All Architectures](../../releases/download/all/smart-launcher-hoo-dles.apk )
 
@@ -914,7 +914,7 @@ Web version:
 
 ### [WPS Office:](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 [All Architectures](../../releases/download/all/wps-office-hoo-dles.apk )
 
@@ -922,7 +922,7 @@ Web version:
 
 ### [Waze:](https://play.google.com/store/apps/details?id=com.waze)
 
-### [rushiranpise:](https://github.com/rushiranpise/morphe-patches)
+### [rushiranpise:](https://github.com/rushiranpise/puntube-patches)
 
 [All Architectures](../../releases/download/all/waze-rushiranpise.apk )
 
@@ -930,7 +930,7 @@ Web version:
 
 ### [Solid Explorer File Manager:](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
-### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+### [hoo-dles:](https://github.com/hoo-dles/puntube-patches)
 
 Require MicroG installed
 
@@ -1000,11 +1000,11 @@ Require MicroG installed
 </details>
 
 <details>
-  <summary>Morphe</summary>
+  <summary>Puntube</summary>
 
-[Patches](https://github.com/MorpheApp/morphe-patches) - [GPL-3.0](https://github.com/MorpheApp/morphe-patches/blob/main/LICENSE)
+[Patches](https://github.com/PuntubeApp/puntube-patches) - [GPL-3.0](https://github.com/PuntubeApp/puntube-patches/blob/main/LICENSE)
 
-[CLI](https://github.com/MorpheApp/morphe-cli) - [GPL-3.0](https://github.com/MorpheApp/morphe-cli/blob/main/LICENSE)
+[CLI](https://github.com/PuntubeApp/puntube-cli) - [GPL-3.0](https://github.com/PuntubeApp/puntube-cli/blob/main/LICENSE)
 
 </details>
 
@@ -1087,7 +1087,7 @@ Require MicroG installed
 <details>
   <summary>icysymmetra</summary>
 
-[Patches](https://github.com/icysymmetra/tiktok-patches-for-morphe) - [GPL-3.0](https://github.com/icysymmetra/tiktok-patches-for-morphe/blob/main/LICENSE)
+[Patches](https://github.com/icysymmetra/tiktok-patches-for-puntube) - [GPL-3.0](https://github.com/icysymmetra/tiktok-patches-for-puntube/blob/main/LICENSE)
 
 </details>
 
@@ -1101,21 +1101,21 @@ Require MicroG installed
 <details>
   <summary>docbt</summary>
 
-[Patches](https://github.com/rushiranpise/morphe-patches) - [GPL-3.0](https://github.com/rushiranpise/morphe-patches/blob/main/LICENSE)
+[Patches](https://github.com/rushiranpise/puntube-patches) - [GPL-3.0](https://github.com/rushiranpise/puntube-patches/blob/main/LICENSE)
 
 </details>
 
 <details>
   <summary>arandomhooman</summary>
 
-[Patches](https://github.com/arandomhooman/hoomans-morphe-patches) - [GPL-3.0](https://github.com/arandomhooman/hoomans-morphe-patches/blob/main/LICENSE)
+[Patches](https://github.com/arandomhooman/hoomans-puntube-patches) - [GPL-3.0](https://github.com/arandomhooman/hoomans-puntube-patches/blob/main/LICENSE)
 
 </details>
 
 <details>
   <summary>bufferk</summary>
 
-[Patches](https://github.com/bufferk/morphe-patches) - [GPL-3.0](https://github.com/bufferk/morphe-patches/blob/main/LICENSE)
+[Patches](https://github.com/bufferk/puntube-patches) - [GPL-3.0](https://github.com/bufferk/puntube-patches/blob/main/LICENSE)
 
 </details>
 

@@ -14,7 +14,7 @@ The issue might be that your Android OS is preventing MicroG (GMS Core) from run
 
 ### Q: How do I use this repository for patching my own app?
 
-You should [fork](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/fork) the repository, and then go to the `Action` tab
+You should [fork](https://github.com/punz04/Revanced-And-Revanced-Extended-Non-Root/fork) the repository, and then go to the `Action` tab
 ![Click Action](../docs/image/FAQ/patching-app-1.png)
 
 Click "I understand my workflows, go ahead and enable them"
