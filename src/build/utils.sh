@@ -726,7 +726,7 @@ patch() {
 	if [ -f "./download/$1.apk" ]; then
 		echo "Patching with Morphe"
 		unset CI GITHUB_ACTION GITHUB_ACTIONS GITHUB_ACTOR GITHUB_ENV GITHUB_EVENT_NAME GITHUB_EVENT_PATH GITHUB_HEAD_REF GITHUB_JOB GITHUB_REF GITHUB_REPOSITORY GITHUB_RUN_ID GITHUB_RUN_NUMBER GITHUB_SHA GITHUB_WORKFLOW GITHUB_WORKSPACE RUN_ID RUN_NUMBER
-		eval java -jar morphe-desktop-*.jar patch -p *.mpp --options-file ./src/options/$2.json --out=./release/$1-$2.apk$excludePatches$includePatches --keystore=./src/punz04.keystore --force --continue-on-error ./download/$1.apk
+		eval java -jar morphe-desktop-*.jar patch -p *.mpp --options-file ./src/options/$2.json --out=./release/$1-$2.apk$excludePatches$includePatches --keystore=./src/morphe.keystore --force --continue-on-error ./download/$1.apk
 		unset version
 		unset lock_version
 		unset excludePatches
@@ -746,7 +746,7 @@ patch_multi() {
 			[ -f "$mpp_file" ] || continue
 			mpp_args="$mpp_args -p \"$mpp_file\"$excludePatches$includePatches"
 		done
-		eval java -jar morphe-desktop-*.jar patch $mpp_args --options-file ./src/options/$2.json --out=./release/$1-$2.apk --keystore=./src/punz04.keystore --force --continue-on-error ./download/$1.apk
+		eval java -jar morphe-desktop-*.jar patch $mpp_args --options-file ./src/options/$2.json --out=./release/$1-$2.apk --keystore=./src/morphe.keystore --force --continue-on-error ./download/$1.apk
   		unset version
 		unset lock_version
 		unset excludePatches
@@ -771,7 +771,7 @@ npatch() {
 			red_log "[-] Module not found: $2"
 			return 1
 		fi
-		java -jar jar*.jar ./download/$1.apk -k ./src/punz04.keystore "punz04123" "punz04" "punz04123" $4 -m "$module" -o ./release/
+		java -jar jar*.jar ./download/$1.apk -k ./src/fiorenmas.ks "fiorenmas" "morphe" "fiorenmas" $4 -m "$module" -o ./release/
 		mv ./release/$1-*-npatched.apk ./release/$1-$3-npatched.apk
 		unset version
 		unset lock_version
@@ -833,7 +833,7 @@ split_arch() {
 		eval java -jar morphe-desktop-*.jar patch \
 		-p *.mpp $excludePatches$includePatches --options-file ./src/options/$2.json \
 		--striplibs ${archs[i]} \
-		--keystore=./src/punz04.keystore --force \
+		--keystore=./src/morphe.keystore --force \
 		--out=./release/$1-${archs[i]}-$2.apk \
 		./download/$1.apk
 	else
